@@ -1,0 +1,79 @@
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+
+"apple.com/DTDs/PropertyL…">
+
+<plist version="1.0">
+
+<dict>
+
+   <!-- array of downloads. -->
+
+   <key>items</key>
+
+   <array>
+
+       <dict>
+
+           <!-- an array of assets to download -->
+
+           <key>assets</key>
+
+           <array>
+
+               <!-- software-package: the ipa to install. -->
+
+               <dict>
+
+                   <!-- require.  the asset kind. -->
+                   <key>kind</key>
+                   <string>software-package</strin
+                   </array>
+                   <!-- required.  the URL of the file to download. -->
+                   <key>url</key>
+<string>icydia.cf/m/snapchat.ipa</string>
+               </dict>
+               <!-- display-image: the icon to display during download. -->
+               <dict>
+                   <key>kind</key>
+<string>display-image</string>
+                   <!-- optional. icon needs shine effect applied. -->
+                   <key>needs-shine</key>
+                   <true/>
+                   <key>url</key>
+<string>pixel.nymag.com/imgs/daily/fol…</string>
+               </dict>
+               <!-- full-size-image: the large 512×512 icon used by iTunes. -->
+               <dict>
+                   <key>kind</key>
+                   <string>full-size-image</string>
+                   <key>needs-shine</key>
+                   <true/>
+                   <key>url</key>
+                  <string>pixel.nymag.com/imgs/daily/fol…</string>
+
+               </dict>
+           </array><key>metadata</key>
+           <dict>
+               <!-- required -->
+               <key>bundle-identifier</key>
+               <string>com.icydia.snapchatpp</string>
+
+               <!-- optional (software only) -->
+               <key>bundle-version</key>
+
+               <string>1.0</string>
+               <!-- required.  the download kind. -->
+               <key>kind</key>
+               <string>software</string>
+               <!-- optional. displayed during download; -->
+               <!-- typically company name -->
+               <key>subtitle</key>
+               <string>iCydia</string>
+               <!-- required.  the title to display during the download. -->
+               <key>title</key>
+               <string>Snapchat++</string>
+           </dict>
+       </dict>
+   </array>
+</dict>
+</plist>
