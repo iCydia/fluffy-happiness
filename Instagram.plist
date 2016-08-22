@@ -17,13 +17,13 @@
 					&lt;key&gt;kind&lt;/key&gt;
 					&lt;string&gt;display-image&lt;/string&gt;
 					&lt;key&gt;url&lt;/key&gt;
-					&lt;string&gt;https://m.icydia.cf/logo.png&lt;/string&gt;
+					&lt;string&gt;https://m.icydia.cf/logo.png &lt;/string&gt;
 				&lt;/dict&gt;
 				&lt;dict&gt;
 					&lt;key&gt;kind&lt;/key&gt;
 					&lt;string&gt;full-size-image&lt;/string&gt;
 					&lt;key&gt;url&lt;/key&gt;
-					&lt;string&gt;https://m.icydia.cf/logo.png&lt;/string&gt;
+					&lt;string&gt;https://m.icydia.cf/logo.png &lt;/string&gt;
 				&lt;/dict&gt;
 			&lt;/array&gt;
 			&lt;key&gt;metadata&lt;/key&gt;
@@ -35,7 +35,7 @@
 				&lt;key&gt;kind&lt;/key&gt;
 				&lt;string&gt;software&lt;/string&gt;
 				&lt;key&gt;title&lt;/key&gt;
-				&lt;string&gt;Instargram++ by iCydia @imortaltech0&lt;/string&gt;
+				&lt;string&gt;Instargram++ by iCydia @imortaltech0 &lt;/string&gt;
 			&lt;/dict&gt;
 		&lt;/dict&gt;
 	&lt;/array&gt;
